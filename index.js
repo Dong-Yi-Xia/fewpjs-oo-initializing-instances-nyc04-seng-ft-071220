@@ -5,6 +5,4 @@ class Breakfast{
     this.food = food
     this.drink = drink
   }
-
-
 }
